@@ -38,10 +38,10 @@
 
 ### 逃离鸭科夫
 
-- [CF击杀反馈](https://github.com/bocai-bca/Duckov_CFKillFeedback)
-- [战地击杀反馈](https://github.com/bocai-bca/Duckov_BFKillFeedback)
-- (停维)[回收小纸条](https://github.com/bocai-bca/Duckov_RecycleLuckyNote)
-- (停维)[卡祖笛示谱器](https://github.com/bocai-bca/Duckov_KazooMidiSheet)
+- [CF击杀反馈](https://github.com/bocai-bca/Duckov_CFKillFeedback): 应该是整个鸭科夫的第一个击杀反馈型mod，玩的时候脑子一热突然想到的，感觉会很有喜剧效果于是做了出来。但从代码角度来说这个mod我不是很满意，算是练手之作吧。
+- [战地击杀反馈](https://github.com/bocai-bca/Duckov_BFKillFeedback): 继CF击杀反馈爆火之后，许多人在评论区发表希望有战地击杀反馈mod的想法，于是我做了它。在代码角度我觉得比CF击杀反馈要好很多，也是练手之作。
+- (停维)[回收小纸条](https://github.com/bocai-bca/Duckov_RecycleLuckyNote): 玩鸭科夫时开红包老是出小纸条，很讨厌，于是写了本mod。
+- (停维)[卡祖笛示谱器](https://github.com/bocai-bca/Duckov_KazooMidiSheet): 鸭科夫刚更新卡祖笛那会儿我在想，如果有一个可以下落钢琴卷帘的mod，那一定可以很方便地吹奏出复杂的曲子，于是写了本mod。写本mod的过程中还学习了SMF(standard midi file)的格式，以及使用了一位大佬的开源C# midi读取器。后来看到B站上也有一些人发布使用本mod吹的曲子，真挺有意思的。
 - (弃置)[直播弹幕模拟](https://github.com/bocai-bca/Duckov_FakeLivingComments)
 
 ### 其他游戏
