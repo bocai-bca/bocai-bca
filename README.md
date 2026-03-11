@@ -19,7 +19,7 @@
 - (停维)[终端农场](https://github.com/bocai-bca/TerminalFarm): 一个使用C#编写的控制台程序，是使用命令行交互的种田小游戏，作为C#练手和学习使用Visual Studio IDE而开发的作品。
 - (弃置)[工具数织](https://github.com/bocai-bca/ToolNonogram)
 - (未完成)[放置引擎](https://github.com/bocai-bca/IdleFramework)
-- (未完成)[战略配备英雄:效果](https://github.com/bocai-bca/StratagemHero_Effect)
+- [战略配备英雄:效果](https://github.com/bocai-bca/StratagemHero_Effect): 按照游戏《绝地潜兵2》中，可在拥有超级公民DLC的玩家的舰船上游玩的"战略配备英雄"小游戏，使用Godot引擎进行的复刻还原并扩展出特色内容的作品。
 
 ## 用于其他游戏的项目
 
